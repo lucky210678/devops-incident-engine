@@ -1,0 +1,11 @@
+# Sensitive environment variables
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & OS settings
+.vscode/
+.DS_Store
